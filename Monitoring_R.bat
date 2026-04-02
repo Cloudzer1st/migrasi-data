@@ -1,0 +1,1 @@
+typeperf "\Network Interface(*)\Bytes Total/sec" -si 1
